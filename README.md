@@ -8,22 +8,27 @@ We'll go through the most common questions I get / see from _aspiring developers
 
 ## Table of contents
 
--   [Will I find a job without a CS degree ?](#job-without-CS-degree)
--   [Do I have to study 12 hours a day to succeed ?](#work-intensity)
--   [How to stay motivated during the learning process ?](#motivation-while-learning)
--   [When should I start applying for job ?](#applying)
--   [How can I apply for a job when I have no experiences ?](#no-experiences)
--   [What kind of projects should I build ?](#building-projects)
--   [What skills recruiter are looking for ?](#skills-for-recruiters)
--   [What if I don't meet the requirements on the job posting ?](#requirements-for-job)
+-   [Learning](#learn)
+
+    -   [Do I have to study 12 hours a day to succeed ?](#work-intensity)
+    -   [How to stay motivated during the learning process ?](#motivation-while-learning)
+    -   [What kind of projects should I build ?](#building-projects)
+
+-   [Find a job](#job)
+
+    -   [Will I find a job without a CS degree ?](#job-without-CS-degree)
+    -   [When should I start applying for job ?](#applying)
+    -   [How can I apply for a job when I have no experiences ?](#no-experiences)
+    -   [What skills recruiter are looking for ?](#skills-for-recruiters)
+    -   [What if I don't meet the requirements on the job posting ?](#requirements-for-job)
 
 -   [Resources](#resources)
 
-### Will I find a job without a CS degree ?
+---
 
-<a name="job-without-CS-degree"></a>
+## Learning
 
-Definitely. 10 years ago, things were different, but nowadays recruiters will pay more intention to **what you can do** rather than your degree. There's a LOT of very successful developers that don't have a degree and now work in big IT companies.
+<a name="learn"></a>
 
 ### Do I have to study 12 hours a day to succeed ?
 
@@ -45,9 +50,39 @@ Find some online communities, or local ones if you live in a big enough town, to
 
 Also, don't forget to look back. Whatever happen, you'll become better and better in your domain, look back and see how far you improved since !
 
+### What kind of projects should I build ?
+
+<a name="building-projects"></a>
+
+_Disclaimer: My knowledge is limited to web development, feel free to suggest others projects._
+
+For a very basic project to get my hand dirty I would recommend a simple CRUD projects. (Based on .. Cats ? Racoons ? Up to you !)
+
+If you want to go deeper and don't really feel to decide what kind of design your project should have nor what kind of features you should add, clone an already existing website. Twitter ? Dev.to ? Netflix ?
+
+Here's some "intermediate" features that come to my mind :
+
+Authentification (maybe through third-parties such as Google / Github ?)
+Manage different roles within your project (Admins / Regular users)
+Try to add some nice transitions effects (if CSS is your thing)
+
+The important part is not to get bored of the project, which decisions about UI/UX tend to do IMO. (Unless that's what you like, then it's totally fine)
+
+---
+
+## Find a job
+
+<a name="job"></a>
+
+### Will I find a job without a CS degree ?
+
+<a name="job-without-CS-degree"></a>
+
+Definitely. 10 years ago, things were different, but nowadays recruiters will pay more intention to **what you can do** rather than your degree. There's a LOT of very successful developers that don't have a degree and now work in big IT companies.
+
 ### When should I start applying for job ?
 
-<a name="applying></a>
+<a name="applying"></a>
 
 There's no debate : **yesterday**. (Overkill ? Probably 😅 ) Joking aside, you should start to apply right now.
 Affraid that your resume won't even give you an interview ? Scared of screwing up the interview ? These are totally normal fears that we all experienced at some points.
@@ -68,24 +103,6 @@ This is where **personnal projects** really shines. When you're learning, you mu
 -   First, as implied before, having made personnal project will build you **experience** that you can show to recruiters. Having one or two projects will really make you stand out.
 -   Second, this is one the best way to solidify your skills. You could watch hours and hours of videos, if you never build something with it, it'll never really print into your mind.
 
-### What kind of projects should I build ?
-
-<a name="building-projects"></a>
-
-_Disclaimer: My knowledge is limited to web development, feel free to suggest others projects._
-
-For a very basic project to get my hand dirty I would recommend a simple CRUD projects. (Based on .. Cats ? Racoons ? Up to you !)
-
-If you want to go deeper and don't really feel to decide what kind of design your project should have nor what kind of features you should add, clone an already existing website. Twitter ? Dev.to ? Netflix ?
-
-Here's some "intermediate" features that come to my mind :
-
-Authentification (maybe through third-parties such as Google / Github ?)
-Manage different roles within your project (Admins / Regular users)
-Try to add some nice transitions effects (if CSS is your thing)
-
-The important part is not to get bored of the project, which decisions about UI/UX tend to do IMO. (Unless that's what you like, then it's totally fine)
-
 ### What skills recruiter are looking for ?
 
 <a name="skills-for-recruiters"></a>
@@ -100,7 +117,9 @@ Where you could really stand out, is by improving what I would call the **firm s
 
 Building ..
 
-### Resources
+---
+
+## Resources
 
 <a name="resources"></a>
 
