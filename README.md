@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Hi everyone ! This is a "guide" towards becoming a developer. I personally came from a bootcamp, with no CS (Computer Science) degree, and now fully working as a software engineer. I'll do my best to keep this guide as language/framework agnostic as possible, and these are my personnal thoughts, feel free to disagree and to react out to me to discuss about it.
+Hi everyone ! This repository aim to cover the most commons questions about getting into IT.
 
-We'll go through the most common questions I get / see from _aspiring developers_, feel free to skip to a specific point using the table of contents
+We'll go through the most common questions I get / see from _aspiring developers_, feel free to skip to a specific point using the table of contents.
 
 ## Table of contents
 
@@ -69,8 +69,8 @@ When companies are looking for a junior developer, they already know your **hard
 Will you integrate properly in the company ? Are you a kind person ? Are you willing to learn ? All of these are soft skills that are even **more** valuable than the hard skills. You could be the best software engineer ever, if your behaviors don't match what the company expect, you'll never get the job.
 Where you could really stand out, is by improving what I would call the **firm skills**. When it come towards writing meaningful and comprehensive documentation, as well as writing helpful tests. I think we could include naming convention, proper code splitting, comments and all. If you can show some interest, or even better a bit of knowledge and awareness about these subjects, you'll nail the interview.
 
-### I don't meet the requirements on the job posting ?
+### What if I don't meet the requirements on the job posting ?
 
 ### Resources
 
-https://twitter.com/ace_rbk/status/1441419625145651205
+Huge Twitter thread about "How To Get A Job In Tech! Panel Sessions!" -> https://twitter.com/ace_rbk/status/1441419625145651205
