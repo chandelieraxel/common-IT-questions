@@ -1,4 +1,4 @@
-# Common aspriing developers questions
+# Common aspiring developers questions
 
 ## Introduction
 
